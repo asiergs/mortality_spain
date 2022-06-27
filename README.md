@@ -1,2 +1,2 @@
-# mortality_spain
-Spanish mortality tables
+# Mortality tables for Spanish population
+- G
