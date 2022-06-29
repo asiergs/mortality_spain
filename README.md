@@ -6,7 +6,7 @@ En ningun caso se podrá utilizar tablas de mortalidad con una antigüedad super
   - PERF2000C - Para contratos de en cartera (mujeres)
   - PERM2000P - Para contratos de nueva producción (hombres)
   - PERF2000P - Para contratos de nueva producción (mujeres)
-- PASEM2010 - Para cobertura por fallecimiento en los sistemas de planes de pensiones
+- PASEM2010 para cobertura por fallecimiento en los sistemas de planes de pensiones
 - PERMF2020 de 2ndo y 1er orden y todas derivaciones de las tablas de mortalidad generacionales:
   - PERM2020_Col_2ndo - para los seguros de supervivencia colectivos (hombres)
   - PERF2020_Col_2ndo - para los seguros de supervivencia colectivos (mujeres)
@@ -16,4 +16,6 @@ En ningun caso se podrá utilizar tablas de mortalidad con una antigüedad super
   - PERF2020_Col_1er - para los seguros de supervivencia colectivos con recargos tecnicos (mujeres)
   - PERM2020_Ind_1er - para los seguros de supervivencia individuales con recargos tecnicos (hombres)
   - PERM2020_Ind_1er - para los seguros de supervivencia individuales con recargos tecnicos (mujeres)
-
+- PASEM2020 para cobertura de por fallecimiento
+  - PASEM2020_2ndo diferenciando los seguros de vida-riesgo y decesos
+  - PASEM2020_1ero con recargo diferenciando los seguros de vida-riesgo y decesos
