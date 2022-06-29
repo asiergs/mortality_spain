@@ -6,7 +6,7 @@ En ningun caso se podrá utilizar tablas de mortalidad con una antigüedad super
   - ***PERF2000C.csv***   - Para contratos de en cartera (mujeres)
   - ***PERM2000P.csv***   - Para contratos de nueva producción (hombres)
   - ***PERF2000P.csv***  - Para contratos de nueva producción (mujeres)
-- **PASEM2010.scv** para cobertura por fallecimiento en los sistemas de planes de pensiones
+- ***PASEM2010.scv*** para cobertura por fallecimiento en los sistemas de planes de pensiones
 - PERMF2020 de 2ndo y 1er orden y todas derivaciones de las tablas de mortalidad generacionales:
   - ***PERM2020_Col_2ndo.csv***   - para los seguros de supervivencia colectivos (hombres)
   - ***PERF2020_Col_2ndo.csv***   - para los seguros de supervivencia colectivos (mujeres)
