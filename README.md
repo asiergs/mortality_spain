@@ -19,3 +19,4 @@ En ningun caso se podrá utilizar tablas de mortalidad con una antigüedad super
 - PASEM2020 para cobertura de por fallecimiento
   - ***PASEM2020_2ndo.csv*** - diferenciando los seguros de vida-riesgo y decesos
   - ***PASEM2020_1ero.csv*** - diferenciando los seguros de vida-riesgo y decesos con recargos técnicos
+- ***PEAIMF2007*** para invalidez permanente
