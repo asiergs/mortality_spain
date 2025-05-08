@@ -15,7 +15,7 @@ En ningun caso se podrá utilizar tablas de mortalidad con una antigüedad super
   - ***PERM2020_Col_1er.csv***    - para los seguros de supervivencia colectivos con recargos técnicos (hombres)
   - ***PERF2020_Col_1er.csv***    - para los seguros de supervivencia colectivos con recargos técnicos (mujeres)
   - ***PERM2020_Ind_1er.csv***    - para los seguros de supervivencia individuales con recargos técnicos (hombres)
-  - ***PERM2020_Ind_1er.csv***    - para los seguros de supervivencia individuales con recargos técnicos (mujeres)
+  - ***PERF2020_Ind_1er.csv***    - para los seguros de supervivencia individuales con recargos técnicos (mujeres)
 - PASEM2020 para cobertura de por fallecimiento
   - ***PASEM2020_2ndo.csv*** - diferenciando los seguros de vida-riesgo y decesos
   - ***PASEM2020_1ero.csv*** - diferenciando los seguros de vida-riesgo y decesos con recargos técnicos
